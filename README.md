@@ -1,3 +1,5 @@
+![TS + Node + Express + Mongo](https://user-images.githubusercontent.com/10678997/57565876-01281b00-73f8-11e9-8d86-911faa4a6c0f.png)
+
 # Node.js Project with TypeScript, Express, and MongoDB
 
 This project is a base template for creating web applications with Node.js using TypeScript, Express, and MongoDB.
@@ -28,10 +30,6 @@ Runs the project in development mode with the help of Nodemon.
 `yarn build`
 
 Compiles the project.
-
-## License
-
-This project is licensed under the MIT license. For more information, please see the LICENSE file.
 
 ## Contributions
 
