@@ -4,7 +4,7 @@ This project is a base template for creating web applications with Node.js using
 
 ## Prerequisites
 
-To use this project, you need to have Node.js and Yarn installed.
+To use this project, you need to have Node.js installed.
 
 ## Installation
 
@@ -17,15 +17,15 @@ To use this project, you need to have Node.js and Yarn installed.
 
 ## Usage
 
-## yarn start
+`yarn start`
 
 Compiles the project and runs it in production mode.
 
-## yarn dev
+` yarn dev`
 
 Runs the project in development mode with the help of Nodemon.
 
-## yarn build
+`yarn build`
 
 Compiles the project.
 
