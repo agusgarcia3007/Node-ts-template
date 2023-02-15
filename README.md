@@ -16,7 +16,7 @@ To use this project, you need to have Node.js installed.
 
 ## Configuration
 
-1. Rename the `.env.example` file to `.env` and fill in the required values for your environment
+1. Rename the `.env.sample` file to `.env` and fill in the required values for your environment
 
 ## Usage
 
