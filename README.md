@@ -12,10 +12,11 @@ To use this project, you need to have Node.js installed.
 
 1. Clone this repository to your local machine
 2. Run `yarn install` to install the dependencies
+3. Run `yarn prepare` to install husky hooks
 
 ## Configuration
 
-1. Create a `.env` file at the root of the project and add the necessary environment variables. You can see an example in the `.env.example` file.
+1. Rename the `.env.example` file to `.env` and fill in the required values for your environment
 
 ## Usage
 
@@ -30,6 +31,18 @@ Runs the project in development mode with the help of Nodemon.
 `yarn build`
 
 Compiles the project.
+
+`yarn lint`
+
+Runs ESLint on the project.
+
+`yarn lint:fix`
+
+Runs ESLint on the project and fixes any errors that can be fixed automatically.
+
+`yarn format`
+
+Runs Prettier on the project.
 
 ## Contributions
 
